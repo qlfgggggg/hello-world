@@ -1,2 +1,4 @@
 # hello-world
-study
+hi people!
+
+my name is 乔梁放！
